@@ -1,0 +1,40 @@
+{
+    "auto_book": "yes-please",
+    "beneficiary_dtls": [
+        {
+            "age": 36,
+            "bref_id": "24714193747960",
+            "dose1_date": "",
+            "name": "Narendra Singh",
+            "status": "Not Vaccinated",
+            "vaccine": ""
+        },
+        {
+            "age": 35,
+            "bref_id": "58221142565480",
+            "dose1_date": "",
+            "name": "Anshul Kaushik",
+            "status": "Not Vaccinated",
+            "vaccine": ""
+        }
+    ],
+    "captcha_automation": "y",
+    "fee_type": [
+        "Free"
+    ],
+    "location_dtls": [
+        {
+            "alert_freq": 440,
+            "pincode": "122001"
+        },
+        {
+            "alert_freq": 660,
+            "pincode": "122002"
+        }
+    ],
+    "minimum_slots": 5,
+    "refresh_freq": 10,
+    "search_option": 1,
+    "start_date": 1,
+    "vaccine_type": null
+}
